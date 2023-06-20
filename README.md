@@ -1,5 +1,5 @@
 # 👋 About Me:
-    A developer looking to turn 0s and 1s into something interesting.
+    Looking to turn 0s and 1s into something interesting.
     
     📖 I’m currently learning React
     💥 Hobbies: 🏎️ 🏋️‍♀️ 💻 🕹️
