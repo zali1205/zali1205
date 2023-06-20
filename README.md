@@ -1,5 +1,6 @@
 # 💫 About Me:
-    🌱 I’m currently learning React<br>    💥 Hobbies: 🏎️ 🏋️‍♀️ 💻
+    🌱 I’m currently learning React
+    💥 Hobbies: 🏎️ 🏋️‍♀️ 💻
 
 
 # 💻 Tech Stack:
